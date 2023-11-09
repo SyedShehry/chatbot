@@ -1,0 +1,3 @@
+pip install transformers
+pip install elasticsearch
+pip install openai

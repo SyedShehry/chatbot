@@ -1,9 +1,0 @@
-pip install transformers
-pip install elasticsearch
-pip install openai
-
-
-id  elastic
-pass OhGKuj5af4UGo6p9txKgC76B
-
-could 9fce15780618432c8f33529d634d1fce:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvOjQ0MyRmMzQ2OTkyNzc2MGQ0MzE3YmFkNTBkOWIyNGMyMDEwMCQ2MDBkZDI1MjMzNDc0ZGM3OTI2NzkxNjhkM2M2ZGM5YQ==
